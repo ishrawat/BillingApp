@@ -1,6 +1,7 @@
 # Restaurant Billing App
 
 The Restaurant Billing App is a Python application with a GUI that allows users to place orders, calculate totals, generate receipts, and save order details.
+This entire app is developed with help of AI
 
 ## Features
 
@@ -47,5 +48,5 @@ The Restaurant Billing App is a Python application with a GUI that allows users 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Created by Ishwar Singh Chauhan
 
